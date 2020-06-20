@@ -1,7 +1,13 @@
 def oxford_comma(array)
-  index = array[]
-  if array[index] = 0
+ # if array has 1 element
   new_array = array.join
   new_array
-  end
+  
+# if array has 2 elements:
+# array_2 = array.join(" and ")
+# array_2
+
+# if array has 3 elements:
+# array_3 = array.join(" , ")
+  #end
 end
